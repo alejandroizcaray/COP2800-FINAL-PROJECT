@@ -1,0 +1,15 @@
+Name:Alejandro Total:57.00 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Total:56.00 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Total:32.58 Vegan:false Milk Choice:Whole Milk
+Name:Xena Total:79.84 Vegan:false Milk Choice: 
+Name:Alejandro Izcaray Total:57.74 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Izcaray Total:62.73 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Izcaray Total:9.43 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Izcaray Total:4.19 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Izcaray Total:8.37 Vegan:true Milk Choice:Almond Milk
+Name:Alejandro Izcaray Total:53.15 Vegan:true Milk Choice: 
+Name:Alejandro Izcaray Total:51.15 Vegan:true Milk Choice: 
+Name:Alejandro Izcaray Total:53.15 Vegan:true Milk Choice: 
+Name:Alejandro Izcaray Total:53.15 Vegan:true Milk Choice:Whole Milk
+Name:Alejandro Izcaray Total:57.33 Vegan:true Milk Choice:Whole Milk
+Name:Alejandro Izcaray Total:62.32 Vegan:true Milk Choice:Whole Milk
